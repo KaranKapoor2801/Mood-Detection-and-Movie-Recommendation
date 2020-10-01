@@ -11,6 +11,6 @@
 
 - Notebook can be executed in Jupyter, Google Colab etc.
 
-## How it Works
+## How it Works?
 
 - It basically compares the faces data available with your current face expressions and determines your mood. Based upon your mood, it suggests the movie that you should watch now.
